@@ -1,1 +1,1 @@
-# -Rainier-Climbing-Success-Prediction
+# Rainier-Climbing-Success-Prediction
